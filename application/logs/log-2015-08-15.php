@@ -421,8 +421,11 @@ ERROR - 2015-08-15 17:49:48 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2015-08-15 17:49:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/phpproject/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-15 17:49:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/phpproject/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-15 17:49:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/phpproject/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
+<<<<<<< HEAD
 ERROR - 2015-08-15 23:54:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-15 23:55:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-15 23:56:06 --> Severity: Notice  --> iconv(): Detected an illegal character in input string /var/www/html/ci_photogallery/system/core/Utf8.php 89
 ERROR - 2015-08-15 23:56:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-15 23:56:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
+=======
+>>>>>>> created photogallery app using Codeigniter

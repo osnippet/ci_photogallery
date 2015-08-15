@@ -1,5 +1,6 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
 
+<<<<<<< HEAD
 ERROR - 2015-08-16 00:06:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-16 00:06:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-16 00:06:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
@@ -31,3 +32,6 @@ ERROR - 2015-08-16 00:17:02 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2015-08-16 00:17:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-16 00:17:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2015-08-16 00:17:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
+=======
+ERROR - 2015-08-16 00:19:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/phpproject/ci_photogallery/system/database/drivers/mysql/mysql_driver.php 91
+>>>>>>> created photogallery app using Codeigniter
